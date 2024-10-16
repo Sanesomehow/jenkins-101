@@ -1,2 +1,2 @@
 
-print("Hello world")
+print("Hello world changes applied and commited")
